@@ -1,8 +1,8 @@
 # Interfacing-Seven-segment-display-with-lpc2148
 
-Name: SAFA
-Roll no : 212220230040
-Date of experiment:20/11/22
+### Name: SAFA
+### Roll no : 212220230040
+### Date of experiment:20/11/22
 
 
 
